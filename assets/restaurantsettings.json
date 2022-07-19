@@ -1,0 +1,13 @@
+{
+    "restaurantId": "R0022",
+    "restaurantName": "Plann X",
+    "restaurantOwner": "Owner Name",
+    "restaurantAddress": "Address",
+    "restaurantTax": "0",
+    "restaurantContactNumber": "2551278900",
+    "imageSources": [
+        { "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/56748793/dbohn_170625_1801_0018.0.0.jpg", "caption": "The first slide"},
+        { "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/9278671/jbareham_170917_2000_0124.jpg", "caption": "The second slide" },
+        { "url": "https://cdn.vox-cdn.com/uploads/chorus_image/image/56789263/akrales_170919_1976_0104.0.jpg", "caption": "The third slide"}
+    ]
+}
